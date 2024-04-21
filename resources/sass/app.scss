@@ -1,0 +1,29 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap');
+
+// Variables
+@import 'variables';
+
+// Frontend
+@import "frontend/login";
+@import "frontend/frontend";
+
+//Layout
+@import "layouts/alignments";
+@import "layouts/widgets";
+@import "layouts/backgrounds";
+@import "layouts/cards";
+@import "layouts/layouts";
+@import "layouts/dropdown";
+@import "layouts/checkout";
+@import "layouts/color";
+@import "layouts/sidemenu";
+
+//Custom
+@import "custom/style";
+@import "custom/icon-list";
+@import "custom/custom-styles";
+@import "custom/v1-3";
+
+// Responsive
+@import "layouts/responsive"
